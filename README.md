@@ -1,2 +1,2 @@
-# datasciencecomunity
-Repositório da comunidade de DataScience da Unipê, sinta-se a vontade para extrair qualquer arquivo de aprendizado ou base de dados. Leia as regras para usar o repositório da melhor forma. Obrigado!
+# Bem-vindo ao Repositório de Dados da Comunidade de DataScience
+Aqui, vamos trabalhar com arquivos de aprendizado e base de dados para realização das nossas atividades.
